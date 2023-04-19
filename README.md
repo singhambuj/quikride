@@ -1,2 +1,3 @@
-# quikswap
-This is an online renting web app.
+# quikride
+This is my final year college major project, currently under development.
+I will update it as soon as possible.
